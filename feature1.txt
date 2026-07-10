@@ -2,4 +2,4 @@ This is the new feature for Bootstrap.
 
 This is some unsaved work.
 
-Feature 1 got updated in "main".
+Conflicting line.
